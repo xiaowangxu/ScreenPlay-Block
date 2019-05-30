@@ -1,0 +1,17 @@
+<> Project.Info.Title:Untitle Project
+
+<> Project.Info.Author:studio UNNAMED
+   Project.Info.Phone:11111111111
+   Project.Info.Address:XX.XX.XX.XX
+   Project.Info.Email:2208740924@qq.com
+
+// 我的第一个剧本
+
+## 场景 内 日
+@@ 动作
+== studio UNNAMED
+++ 感谢使用SPB Lang和ScreenPlay Block
+~~ 转出|out
+   场景2 外 夜
+@@ 更多信息请在主界面的手册中查找。
+   SPB studio UNNAMED 2019

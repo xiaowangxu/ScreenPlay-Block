@@ -1,0 +1,3 @@
+,Editor.Theme,Editor.Font,Info.BlockCount,Info.BlockCount(Ordered),SPBLang.Complier
+Argument,ScreenPlay-Block-Color-Data|ThemeFile,Font,NULL,Property,
+Info,Change Editor's THEME,Change Editor's FONT,Get the NUMBER of Blocks,Get the NUMBER of Blocks with the given Property,Complier Log
